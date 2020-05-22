@@ -1,0 +1,13 @@
+INSERT INTO `purchase` VALUES ('1', '01', '猪肉', 10, 70, '2019-12-2 20:11:59');
+INSERT INTO `purchase` VALUES ('1', '01', '猪肉', 10, 70, '2019-12-2 20:13:07');
+INSERT INTO `purchase` VALUES ('1', '01', '猪肉', 10, 70, '2019-12-2 20:17:57');
+INSERT INTO `purchase` VALUES ('1', '01', '猪肉', 12, 84, '2019-12-2 20:18:54');
+INSERT INTO `purchase` VALUES ('1', '01', '猪肉', 10, 70, '2019-12-2 20:19:52');
+INSERT INTO `purchase` VALUES ('1', '01', '猪肉', 10, 70, '2019-12-4 18:25:17');
+INSERT INTO `purchase` VALUES ('1', '01', '猪肉', 20, 140, '2019-12-4 18:25:50');
+INSERT INTO `purchase` VALUES ('1', '01', '猪肉', 10, 70, '2019-12-4 19:45:18');
+INSERT INTO `purchase` VALUES ('1', '01', '猪肉', 10, 70, '2019-12-4 20:01:44');
+INSERT INTO `purchase` VALUES ('1', '01', '猪肉', 10, 70, '2019-12-6 13:34:05');
+INSERT INTO `purchase` VALUES ('1', '01', '猪肉', 10, 70, '2019-12-6 13:35:02');
+INSERT INTO `purchase` VALUES ('1', '01', '猪肉', 10, 70, '2019-12-6 15:03:52');
+INSERT INTO `purchase` VALUES ('1', '01', '猪肉', 10, 70, '2019-12-18 12:50:47');

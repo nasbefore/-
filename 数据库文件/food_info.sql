@@ -1,0 +1,13 @@
+INSERT INTO `food_info` VALUES ('01', '猪肉', 64);
+INSERT INTO `food_info` VALUES ('02', '青菜', 30);
+INSERT INTO `food_info` VALUES ('03', '牛肉', 25);
+INSERT INTO `food_info` VALUES ('04', '鸡腿', 10);
+INSERT INTO `food_info` VALUES ('05', '羊肉', 3);
+INSERT INTO `food_info` VALUES ('06', '鸭肉', 15);
+INSERT INTO `food_info` VALUES ('07', '鲤鱼', 12);
+INSERT INTO `food_info` VALUES ('08', '蘑菇', 10);
+INSERT INTO `food_info` VALUES ('09', '竹笋', 7);
+INSERT INTO `food_info` VALUES ('10', '玉米', 10);
+INSERT INTO `food_info` VALUES ('11', '大米', 60);
+INSERT INTO `food_info` VALUES ('12', '南瓜', 5);
+INSERT INTO `food_info` VALUES ('13', '海带', 12);
